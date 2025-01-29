@@ -1,0 +1,1 @@
+{"2down": "SAILS", "3down": "STEER", "8across": "LASER", "4across": "HIKE", "5down": "KEEL", "7across": "LEE", "1across": "HOSES", "6down": "ALE"}
